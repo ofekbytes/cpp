@@ -10,4 +10,24 @@ C++ - CPP
 .
 - level 1: C++
 
--- 
+-- <C++> is used to create computer programs. 
+--- example: art applications, music players, video games.
+
+-- <C++> is largely based on <C>.
+
+--- example: "Hello world" program.
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  cout << "Hello world!";
+  return 0;
+}
+
+
+--- example:  "Hello world" program.
+    <cpp-1.1.cpp>
+
+
